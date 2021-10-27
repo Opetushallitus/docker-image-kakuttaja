@@ -34,6 +34,8 @@ Redis 5.0 -image löytyy tunnisteella:
 Tässä vaiheessa versio 5.0 vastaa pilviympäristöjemme redis-komponentteja ja jatkossa voidaan kakuttaa muitakin 
 tarvittavia versioita.
 
+Muita imageita lisätään tänne vähitellen ja kaikkea ei ehkä dokumentoida README:hen. Ks. Dockerfile:ssa tarkempi listaus.
+
 ## Kakkujen päivitys
 
 Postgres- ja redis-imageiden hakeminen ECR-repoihin tapahtuu tämän git-repon travis-buildissä, joka ajetaan 
